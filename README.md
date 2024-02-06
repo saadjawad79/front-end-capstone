@@ -1,11 +1,20 @@
-# front-end-capstone
-Meta Front-End Capstone Project: Little Lemon Website
-This is a culmination of the topics and concepts learned by me during the Professional Certification offered by Meta in Front-End Development. The website "Little Lemon" is
-of a restaurent and has been designed to include forms, booking and user profiles. The various technologies used in the design are,
+<h1 align="center"> Little Lemon  </h1>
+
+<p align="center">
+The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera. <br/>
+</p>
+
+<h2 id="technologies">🚀 Technologies</h2>
+
+This project was developed with the following technologies:
+
 - React JS
 - Typescript
 - Styled Components
+- Yup
+- Formik
 - Jest
 - React Testing Library
 - Git and Github
 - Figma
+
